@@ -5,9 +5,9 @@ title: Projects
 
 A collection of random stuff I've worked on. Not complete, not always up to date, but hey.
 
-## EYP Member Management (WIP, [Bitbucket](https://bitbucket.org/eyp-developers/eyp-member-database))
+## EYP Member Management ([GitHub](https://github.com/eyp-developers/eyp-member-database))
 
-A web-application developed for [EYP Austria](http://www.eypaustria.org) and other National Committees or the [EYP](http://eyp.org). The application is designed as a bare-bones core, most features are realised as plugins. This makes it extremely configurable and fast. Will probably move to Github once version 1.0 is ready.
+A web-application developed for [EYP Austria](http://www.eypaustria.org) and other National Committees of the [EYP](http://eyp.org). The application is designed as a bare-bones core, most features are realised as plugins. This makes it very configurable and fast.
 
 ## GermanC ([GitHub](https://github.com/davidrauch/GermanC))
 
