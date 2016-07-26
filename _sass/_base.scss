@@ -158,9 +158,7 @@ pre:not(.no-highlight) {
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    padding-top: $spacing-unit;
+    padding: $spacing-unit;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

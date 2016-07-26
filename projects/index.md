@@ -20,3 +20,20 @@ A (now defunct) Mac app that showed the latest videos of your YouTube Subscripti
 ## Meneux.app ([GitHub](https://github.com/davidrauch/Meneux))
 
 A (now defunct) Mac app client for [TeuxDeux](https://teuxdeux.com). It used to sit in your menu bar and pop up to show you today's todos.
+
+## ➟.tk
+
+Yet another URL shortener. Unfortunately, this lovely domain has been seized by dot.tk in March 2012, so ➟.tk is no more.
+
+
+## Doctor Who Timeline ([Link](drwhotimeline/))
+
+A Timeline for the 11th doctor of Doctor Who created using HTML5 and dynamically generated SVG.
+
+## Portfolio 2011 ([Link](portfolio2011/))
+
+A Porfolio I created for my English class in 2011.
+
+## Portfolio 2010 ([Link](portfolio2010/))
+
+A Porfolio I created for my English class in 2010.

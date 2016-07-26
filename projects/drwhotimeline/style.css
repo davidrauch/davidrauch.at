@@ -1,0 +1,141 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+body {
+	font-family: "proxima-nova-1","proxima-nova-2", "Helvetica", "Arial", sans-serif;
+	width: 100%;
+	position: absolute;
+}
+
+.about {
+	width: 90%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: -80%;
+	background: rgba(0,0,0,0.6);
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.6);
+	z-index: 999;
+	-webkit-transition: left 0.3s linear;
+}
+
+.about:hover {
+	left: 0px;
+}
+
+.off {
+	width: 10%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	right: 0;
+	/*background: rgba(0,0,0,0.6);
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.6);*/
+}
+
+.off .character {
+	visibility: hidden;
+}
+
+.episode {
+	width: 100%;
+	height: 320px;
+	background-size: cover;
+	background-position: 50% 50%;
+	display: table;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.4) inset;
+	position: relative;
+}
+
+.info {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.meta {
+	color: #222;
+	background: white;
+	padding: 3px 5px;
+	position: relative;
+	top: -4px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
+	z-index: 997;
+}
+
+.title {
+	color: #222;
+	background: white;
+	padding: 3px 5px;
+	border-radius: 5px;
+	font-family: "proxima-nova-extra-condensed-1","proxima-nova-extra-condensed-2", "Helvetica", "Arial", sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
+	display: inline;
+	position: relative;
+	z-index: 998;
+}
+
+.participations {
+	position: absolute;
+	left: 0;
+	top: 70%;
+	width: 100%;
+	height: 10%;
+}
+
+.character {
+	float: left;
+	position: absolute;
+	top: 8px;
+	background: white;
+	margin-left: -8px;
+	width: 16px;
+	height: 16px;
+	border-radius: 8px;
+	box-shadow: 0px 0px 4px rgba(0,0,0,0.8);
+	opacity: 0.8;
+	z-index: 998;
+}
+
+.character.first {
+	width: 60px;
+	height: 60px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	margin-left: -30px;
+	margin-top: -30px;
+	opacity: 1;
+}
+
+.character.first img {
+	margin: 5px;
+	border-radius: 25px;
+	width: 50px;
+	height: 50px;
+}
+
+.character.death {
+	width: 8px;
+	height: 8px;
+	border: 4px solid white;
+	background: #222;
+}
+
+.character.regeneration {
+	width: 8px;
+	height: 8px;
+	border: 4px solid white;
+	background: #ffa600;
+}
+
+#s00e00 .meta { 
+	display: none;
+}
