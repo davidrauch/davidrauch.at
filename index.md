@@ -3,7 +3,7 @@ layout: page
 title: Hi, I’m David
 ---
 
-I’m a Computer Science student and web developer in Graz, Austria.
+I’m a student of IT Systems Engineering in Potsdam, Germany.
 
 I like tea, technology, movies, music, and politics.
 
