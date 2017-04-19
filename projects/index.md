@@ -7,7 +7,7 @@ A collection of stuff I've worked on. Not complete, not always up to date, but h
 
 ## Lively Projectional Editor ([GitHub](https://github.com/LivelyKernel/lively4-projectional-editor))
 
-A projectional Editor for JavaScript that aims to give developers a better understanding of their program's Abstract Syntax Tree. Implemented in JavaScript using Lively 4, Babel and Google Blockly.
+A projectional editor for JavaScript that aims to give developers a better understanding of their program's Abstract Syntax Tree. Implemented in JavaScript using Lively 4, Babel and Google Blockly.
 
 ## EYP Member Management ([GitHub](https://github.com/eyp-developers/eyp-member-database))
 
