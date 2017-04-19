@@ -9,6 +9,10 @@ A collection of stuff I've worked on. Not complete, not always up to date, but h
 
 A projectional editor for JavaScript that aims to give developers a better understanding of their program's Abstract Syntax Tree. Implemented in JavaScript using Lively 4, Babel and Google Blockly.
 
+## mds ([GitHub](https://github.com/davidrauch/mds))
+
+mds (**M**ark**d**own **S**tructure) is a command line tool that displays the structure of a Markdown file and allows quick navigation by directly jumping to a certain header. Written in Swift using ncurses.
+
 ## EYP Member Management ([GitHub](https://github.com/eyp-developers/eyp-member-database))
 
 A web-application developed for [EYP Austria](http://www.eypaustria.org) and other National Committees of the [EYP](http://eyp.org). The application is designed as a bare-bones core, most features are realised as plugins. This makes it very configurable and fast.
