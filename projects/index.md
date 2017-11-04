@@ -5,6 +5,14 @@ title: Projects
 
 A collection of stuff I've worked on. Not complete, not always up to date, but hey.
 
+## BPTCoin ([GitHub](https://github.com/ceddie/bptc_wallet))
+
+A custom cryptocurrency written from scratch, based on the [Swirlds Hashgraph Consensus Algorithm](http://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf).
+
+## Live Literate Editor ([GitHub](https://github.com/NHoff95/PLCTE_17_LLP))
+
+A live literate editor for JavaScript, enabling developers to define example values for variables in comments and see live evaluated results. This project aimed to create a prototypical implementation combining live and literate programming paradigms.
+
 ## Lively Projectional Editor ([GitHub](https://github.com/LivelyKernel/lively4-projectional-editor))
 
 A projectional editor for JavaScript that aims to give developers a better understanding of their program's Abstract Syntax Tree. Implemented in JavaScript using Lively 4, Babel and Google Blockly.
@@ -32,7 +40,6 @@ A (now defunct) Mac app client for [TeuxDeux](https://teuxdeux.com). It used to 
 ## ➟.tk
 
 Yet another URL shortener. Unfortunately, this lovely domain has been seized by dot.tk in March 2012, so ➟.tk is no more.
-
 
 ## Doctor Who Timeline ([Link](drwhotimeline/))
 
