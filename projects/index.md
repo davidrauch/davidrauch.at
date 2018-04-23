@@ -5,6 +5,14 @@ title: Projects
 
 A collection of stuff I've worked on. Not complete, not always up to date, but hey.
 
+## btrminixFS ([GitHub](https://github.com/davidrauch/btrminixFS))
+
+A backwards-compatible implementation of Copy-on-Write and snapshot mechanics for the minix file system. Implemeted as a Linux kernel module.
+
+## Lively Offline ([GitHub](https://github.com/LivelyKernel/lively4-core/tree/gh-pages/src/external/lively4-serviceworker/src))
+
+Making Lively4 available offline. Using the ServiceWorker API and IndexedDB, we intercept all network traffic and provide caching of idempotent requests as well as queuing of non-cachable requests.
+
 ## BPTCoin ([GitHub](https://github.com/ceddie/bptc_wallet))
 
 A custom cryptocurrency written from scratch, based on the [Swirlds Hashgraph Consensus Algorithm](http://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf).
