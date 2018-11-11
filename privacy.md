@@ -6,11 +6,11 @@ title: Datenschutzerklärung
 <h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
 <br>
 </p><h3 id="dsg-general-controller">Verantwortlicher</h3><p><span class="tsmcontroller">David Rauch <br>
-Georg-Hermann-Allee 143<br>
-14469 Potsdam<br>
+Brunnenallee 1c<br>
+14478 Potsdam<br>
 Deutschland<br>
 <br>
-Telefon: 0043 176 30104536<br>
+Telefon: 0049 1516 2345157<br>
 E-Mail: post@davidrauch.xyz<br>
 <br>
 <a href="/impressum">Impressum</a></span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3><p>-	Bestandsdaten (z.B., Namen, Adressen).<br>

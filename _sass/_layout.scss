@@ -8,6 +8,7 @@
     li {
         display: inline;
         padding-right: .5em;
+        color: $brand-color;
     }
 }
 
@@ -15,7 +16,7 @@
 
 .page-header {
     position: relative;
-    color: white;
+    color: $background-color;
     font-size: 1.5em;
     margin-bottom: $spacing-unit;
 

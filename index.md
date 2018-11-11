@@ -3,8 +3,8 @@ layout: page
 title: Hi, I’m David
 ---
 
-I’m a student of IT Systems Engineering in Potsdam, Germany.
+I’m a software developer in Potsdam, Germany.
 
-I like tea, technology, movies, music, and politics.
+I like technology, tea, movies, and music.
 
-You can find me on <a href="https://github.com/davidrauch">GitHub</a> and <a href="https://keybase.io/davidrauch">Keybase</a>.
+You can find many of my projects on <a href="https://github.com/davidrauch">GitHub</a>.
