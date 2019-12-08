@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Impressum
+title: "Impressum"
 ---
 
 ### Angaben gemäß § 5 TMG
@@ -12,14 +11,15 @@ Deutschland
 
 ### Kontakt:
 
-Telefon: 0049 1516 2345157<br>
+Telefon: 0049 176 30105436<br>
 E-Mail: post@davidrauch.xyz
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 David Rauch <br>
-Georg-Hermann-Allee 143<br>
-14469 Potsdam 
+Brunnenallee 1c<br>
+14478 Potsdam<br>
+Deutschland
 
 ### Haftungsausschluss
 

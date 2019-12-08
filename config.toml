@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "David Rauch"
+theme = "davidrauch.xyz"
+
+[markup.goldmark.renderer]
+unsafe = true

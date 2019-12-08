@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Projects
 ---
 
@@ -52,11 +51,3 @@ Yet another URL shortener. Unfortunately, this lovely domain has been seized by 
 ## Doctor Who Timeline ([Link](drwhotimeline/))
 
 A Timeline for the 11th doctor of Doctor Who created using HTML5 and dynamically generated SVG.
-
-## Portfolio 2011 ([Link](portfolio2011/))
-
-A Porfolio I created for my English class in 2011.
-
-## Portfolio 2010 ([Link](portfolio2010/))
-
-A Porfolio I created for my English class in 2010.

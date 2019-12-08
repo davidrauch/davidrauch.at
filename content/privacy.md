@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Datenschutzerklärung
 ---
 
@@ -10,7 +9,7 @@ Brunnenallee 1c<br>
 14478 Potsdam<br>
 Deutschland<br>
 <br>
-Telefon: 0049 1516 2345157<br>
+Telefon: 0049 176 30104536<br>
 E-Mail: post@davidrauch.xyz<br>
 <br>
 <a href="/impressum">Impressum</a></span></p><h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3><p>-	Bestandsdaten (z.B., Namen, Adressen).<br>

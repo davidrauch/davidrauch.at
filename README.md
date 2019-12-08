@@ -1,2 +1,3 @@
-# davidrauch.at
-My personal website, built with Jekyll
+# davidrauch.xyz
+
+My [personal website](https://davidrauch.xyz), built with [hugo](https://gohugo.io)

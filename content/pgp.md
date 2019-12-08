@@ -1,6 +1,5 @@
 ---
-layout: page
-title: PGP
+title: "PGP"
 ---
 
 <pre class="no-highlight">

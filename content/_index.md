@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Hi, I’m David
+title: "Hi, I'm David"
 ---
 
 I’m a software developer in Potsdam, Germany.
